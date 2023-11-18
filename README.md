@@ -4,7 +4,7 @@
 This assignment focuses on Convolutional Neural Networks (CNNs) and the Keras API for image classification and regression tasks. The dataset involves plant images with various species and associated bounding box information.
 
 ## Data Preparation
-The dataset consists of plant images obtained from the Plant Seedlings dataset by Giselsson et al. [1]. Download the subset from the Aarhus University Plant Seedlings Dataset or use the provided subset in the "a3 dataset.zip" file on BrightSpace. Organize the data into training, validation, and test sets.
+The dataset consists of plant images obtained from the Plant Seedlings dataset by Giselsson et al. [Plant Seedlings Dataset](https://vision.eng.au.dk/plant-seedlings-dataset/){:target="_blank"}. Download the subset from the Aarhus University Plant Seedlings Dataset or use the provided subset in the "a3 dataset.zip" file on BrightSpace. Organize the data into training, validation, and test sets.
 
 ## Basic Transfer Learning
 Classification Network
@@ -20,4 +20,5 @@ Incorporate two regularization methods (e.g., Batch Normalization, Dropout, Weig
 Discuss the possibility of overfitting based on learning curves for both Classification and Regression Networks. Evaluate the impact of regularization on model performance.
 
 ## References:
-[1] Giselsson, Thomas Mosgaard, et al. "A Public Image Database for Benchmark of Plant Seedling Classification Algorithms." 2017 IEEE Winter Conference on Applications of Computer Vision (WACV), 2017, pp. 885-890.
+[Plant Seedlings Dataset](https://vision.eng.au.dk/plant-seedlings-dataset/){:target="_blank"}
+
